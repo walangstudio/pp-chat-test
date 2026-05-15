@@ -11,15 +11,6 @@
         "planning",
         "brainstorm"
       ]
-    },
-    {
-      "name": "borch-runs-test",
-      "description": "borch archive E2E test",
-      "created_at": "2026-05-15T11:46:55Z",
-      "created_by": "ntancardoso",
-      "channels": [
-        "general"
-      ]
     }
   ]
 }
