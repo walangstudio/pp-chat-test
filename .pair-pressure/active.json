@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "server": "nindows",
+  "server": "borch-runs-test",
   "channel": "general",
-  "thread_id": "2026-05-13_general-chat",
-  "updated_at": "2026-05-13T16:58:26Z",
+  "thread_id": "2026-05-15_borch-run-e2e-test-001",
+  "updated_at": "2026-05-15T12:29:41Z",
   "source": "read"
 }
